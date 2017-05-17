@@ -1,0 +1,24 @@
+.my-jumbotron-background{
+	background-image: url("https://images.trvl-media.com/media/content/expus/graphics/launch/home/tvly/150324_flights-hero-image_1330x742.jpg");
+	background-position: center;
+
+}
+
+.my-jumbotron-text{
+	color: white;
+}
+
+.my-background{
+	background-image: url("https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/14597377_1855486284730430_8993119226663272448_n.jpg");
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.my-text-color{
+	color: white;
+}
+
+.my-row{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
